@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/danishhx_" target="blank"><img src="https://img.shields.io/twitter/follow/danishhx_?logo=twitter&style=for-the-badge" alt="danishhx_" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing and Soft Computing**
+- 🌱 I’m currently learning **SELENIUM**
 
 - 💬 Ask me about **JAVA**
 
